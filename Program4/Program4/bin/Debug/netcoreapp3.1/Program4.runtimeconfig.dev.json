@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Tenzin\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Tenzin\\.nuget\\packages"
+    ]
+  }
+}
